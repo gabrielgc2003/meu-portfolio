@@ -7,7 +7,7 @@
  ⬜ - Jogo da Velha com interface
  ⬜ - Interface de cadastro de um usuário e login
  ⬜ - Interface de download de vídeos do Youtube e conversão para mp3
- ⬜ - Aplicativo de plyer mp3 que reproduz musicas do Spotify
+ ⬜ - Aplicativo de player mp3 que reproduz musicas do Spotify
  
 
  
